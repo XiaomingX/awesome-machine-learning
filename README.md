@@ -1,13 +1,5 @@
 # awesome-machine-learning
 
-这是一个精选的机器学习框架、库和软件列表（按编程语言分类），灵感来源于 `awesome-php`。
-
-_如果你想为这个列表做贡献（欢迎参与），请发送拉取请求或联系我 [@josephmisiti](https://twitter.com/josephmisiti)。_
-如果一个列出的库已经不再维护，可以通过以下情况判断：
-
-* 库的作者明确表示 "这个库不再维护"。
-* 已经很长时间没有更新（2-3年）。
-
 ### 框架和库
 
 <a name="apl-general-purpose-machine-learning"></a>
